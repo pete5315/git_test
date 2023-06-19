@@ -1,3 +1,2 @@
 # git_test
-My second GitHub repository
-Hello Odin!
+This is a practice repo that I used to learn git. I did it as a part of Odin Project.
